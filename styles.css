@@ -1,0 +1,6 @@
+body { font-family: 'Segoe UI', sans-serif; background-color: #f8f9fa; }
+.navbar { background-color: #4e73df; }
+.navbar .nav-link { color: white !important; }
+.hidden { display: none; }
+.visible { display: block; }
+.card { border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
